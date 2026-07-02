@@ -2,7 +2,7 @@
  #Procedural Programming Language wo language hoti hai jisme program ko procedures, functions, ya routines me divide kiya jata hai.
  # isko "guido van rossum" ne 1991 me banaya tha.aur iska naam ek circus ke naam para rakha gaya hai jo unko bahut pasand tha "the monty python circus".
  #isko hum bhaut asani se sikh sakte hai aur likh bhi sakte hai
- #Python ko hum kaha kaha use karte hai
+ #Python ko hum kaha kaha use karte hai .
  
  #Python is widely used for software development, web development, data science,
  # artificial intelligence, machine learning, automation, and more.
